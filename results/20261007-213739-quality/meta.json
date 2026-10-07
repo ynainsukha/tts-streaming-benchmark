@@ -1,0 +1,19 @@
+{
+  "list_models": false,
+  "models": [
+    "eleven_v4",
+    "eleven_v4_turbo"
+  ],
+  "voices": [
+    "qxjGnozOAtD4eqNuXms4"
+  ],
+  "corpus": "corpus.jsonl",
+  "suite": "quality",
+  "ids": null,
+  "reps": 8,
+  "conn": "warm",
+  "concurrency": 1,
+  "pause": 0.3,
+  "tag": "quality",
+  "yes": true
+}

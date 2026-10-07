@@ -1,1 +1,16 @@
 requests
+numpy
+pandas
+scipy
+matplotlib
+tabulate
+soundfile
+# quality evaluation
+faster-whisper
+jiwer
+whisper-normalizer
+praat-parselmouth
+torch
+torchaudio
+setuptools<81  # webrtcvad (used by resemblyzer) still imports pkg_resources
+resemblyzer

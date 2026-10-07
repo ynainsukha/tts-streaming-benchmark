@@ -1,4 +1,8 @@
 *.mp3
+*.wav
+results/*/audio/
+results/*/ab_test.html
+results/*/ab_key.json
 __pycache__/
 .venv/
 .env

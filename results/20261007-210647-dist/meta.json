@@ -1,0 +1,23 @@
+{
+  "list_models": false,
+  "models": [
+    "eleven_v4",
+    "eleven_v4_turbo"
+  ],
+  "voices": [
+    "qxjGnozOAtD4eqNuXms4"
+  ],
+  "corpus": "corpus.jsonl",
+  "suite": "latency",
+  "ids": [
+    "q_ack",
+    "q_info",
+    "len_010"
+  ],
+  "reps": 25,
+  "conn": "warm",
+  "concurrency": 1,
+  "pause": 0.3,
+  "tag": "dist",
+  "yes": false
+}
